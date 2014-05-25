@@ -200,7 +200,7 @@ p.capitalize:first-letter {
 
 /* Button Call To Action */
 .btn-cta {
-  color: #ffffff;
+  color: red;
   background-color: blue;
   border-color: #ffffff;
   font-family: 'Ruda', sans-serif;
