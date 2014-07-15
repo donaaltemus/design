@@ -351,6 +351,16 @@ p.capitalize:first-letter {
 	font-weight: 900;
 	letter-spacing: 1px;
 	visibility: hidden;
+
+	pre {
+
+    color: black;
+	font-size: 50px;
+	font-weight: 900;
+	letter-spacing: 1px;
+	visibility: hidden;
+
+	}
 }
 
 #headerwrap h2 {
