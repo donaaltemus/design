@@ -344,12 +344,12 @@ p.capitalize:first-letter {
     background-size: cover;
 }
 
-#headerwrap pre h1 {
+#headerwrap h1 {
 	margin-top: 60px;
 	color: black;
 	font-size: 50px;
 	font-weight: 900;
-	letter-spacing: 12px;
+	letter-spacing: 1px;
 	visibility: hidden;
 }
 
