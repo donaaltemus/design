@@ -204,7 +204,7 @@ p.capitalize:first-letter {
 /* Button Call To Action */
 .btn-cta {
   color: red;
-  background-color: blue;
+  background-color:none;
   border-color: #ffffff;
   font-family: 'Ruda', sans-serif;
   font-size: 13px;
